@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "586277120857",
+    "project_id": "retriveimage-dca8f",
+    "storage_bucket": "retriveimage-dca8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586277120857:android:971b36d1e55491ff513a48",
+        "android_client_info": {
+          "package_name": "com.example.streamingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586277120857-560v813064cu8po8779p256hfvqvk9j0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.streamingapp",
+            "certificate_hash": "ccbe59db886278118977bc675d27b6db9f1154b3"
+          }
+        },
+        {
+          "client_id": "586277120857-60v2rnr3limnrd5cdskur9nakemq8mus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeg3_A7E7sk0bZ1A2LBA2lwrQURSFwJfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586277120857-60v2rnr3limnrd5cdskur9nakemq8mus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

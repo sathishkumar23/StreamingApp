@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StreamingApp</string>
+    <string name="search_city">Enter Your City</string>
+</resources>
